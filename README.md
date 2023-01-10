@@ -1,7 +1,6 @@
 ## PasAdminLogFinder
 
-![Screenshot from 2023-01-10 08-26-43](https://user-images.githubusercontent.com/105418279/211441004-a8cce5d2-0cc8-4489-8fbb-3170c95952b1.png)
-
+![carbon](https://user-images.githubusercontent.com/105418279/211441380-da728133-32c0-442e-902f-382f2e6ec0d4.png)
 
 PasAdminLogFinder adalah tools open source yang digunakan untuk mencari login page admin dari suatu website 
 ditulis dengan bahasa pemrograman python dan dibuat oleh varel security
